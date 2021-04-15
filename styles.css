@@ -14,9 +14,7 @@ h1 {
 footer {
   color: #DBEDF3;
   font-family: 'Permanent Marker', cursive;
-  font-size: 30px;
-  margin: 100px 100px;
-  text-align: center;
+  font-size: 20px;
 }
 
 .w {
@@ -48,7 +46,7 @@ background-image: url("images/snare.png");
 }
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto 13% auto;
 }
 
 .game-over {
